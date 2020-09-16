@@ -1,0 +1,12 @@
+/Users/amyspeed/Documents/DevProjects/dotnetApp/bin/Debug/netcoreapp3.1/dotnetApp.deps.json
+/Users/amyspeed/Documents/DevProjects/dotnetApp/bin/Debug/netcoreapp3.1/dotnetApp.runtimeconfig.json
+/Users/amyspeed/Documents/DevProjects/dotnetApp/bin/Debug/netcoreapp3.1/dotnetApp.runtimeconfig.dev.json
+/Users/amyspeed/Documents/DevProjects/dotnetApp/bin/Debug/netcoreapp3.1/dotnetApp.dll
+/Users/amyspeed/Documents/DevProjects/dotnetApp/bin/Debug/netcoreapp3.1/dotnetApp.pdb
+/Users/amyspeed/Documents/DevProjects/dotnetApp/obj/Debug/netcoreapp3.1/dotnetApp.csprojAssemblyReference.cache
+/Users/amyspeed/Documents/DevProjects/dotnetApp/obj/Debug/netcoreapp3.1/dotnetApp.AssemblyInfoInputs.cache
+/Users/amyspeed/Documents/DevProjects/dotnetApp/obj/Debug/netcoreapp3.1/dotnetApp.AssemblyInfo.cs
+/Users/amyspeed/Documents/DevProjects/dotnetApp/obj/Debug/netcoreapp3.1/dotnetApp.csproj.CoreCompileInputs.cache
+/Users/amyspeed/Documents/DevProjects/dotnetApp/obj/Debug/netcoreapp3.1/dotnetApp.dll
+/Users/amyspeed/Documents/DevProjects/dotnetApp/obj/Debug/netcoreapp3.1/dotnetApp.pdb
+/Users/amyspeed/Documents/DevProjects/dotnetApp/obj/Debug/netcoreapp3.1/dotnetApp.genruntimeconfig.cache
